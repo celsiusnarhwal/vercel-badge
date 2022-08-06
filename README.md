@@ -26,7 +26,7 @@ Display the status of your [Vercel](https://vercel.com) deployment right in your
 - Make sure your badge URL is in the format `https://vercel.celsiusnarhwal.dev/api/{user}/{repo}`.
     - In particular, be sure that `celsiusnarhwal.dev` is spelled *exactly* as it appears here.
 - Double-check your badge URL to see that the names of the repository and its owner are spelled correctly.
-- [Uninstall](https://github.com/settings/installations), then [reinstall](https://vercel.celsiusnarhwal.dev/install)
+- [Uninstall](https://github.com/settings/installations), then [reinstall](https://vercel.celsiusnarhwal.dev/install),
   the app.
 - Make sure the issue isn't your browser having cached an older version of the badge.
     - Clear your browser's cache.
