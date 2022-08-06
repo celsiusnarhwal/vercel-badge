@@ -31,8 +31,10 @@ async def get_status(user: str = None, repo: str = None):
         return FileResponse(os.path.join(file_dir, "assets", "badges", "ready.svg"))
     elif status in ["in_progress", "queued", "pending"]:
         return FileResponse(os.path.join(file_dir, "assets", "badges", "building.svg"))
-    else:
+    elif status in ["error", "failure"]:
         return FileResponse(os.path.join(file_dir, "assets", "badges", "error.svg"))
+    elif status == "inactive":
+        return FileResponse(os.path.join(file_dir, "assets", "badges", "canceled.svg"))
 
 
 @app.get("/api/ready")
@@ -48,3 +50,7 @@ async def building():
 @app.get("/api/error")
 async def error():
     return FileResponse(os.path.join(os.path.dirname(os.path.abspath(__file__)), "assets", "badges", "error.svg"))
+
+@app.get("/api/canceled")
+async def canceled():
+    return FileResponse(os.path.join(os.path.dirname(os.path.abspath(__file__)), "assets", "badges", "canceled.svg"))
