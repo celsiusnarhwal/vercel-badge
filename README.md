@@ -1,5 +1,7 @@
 # Vercel Status Badge
 
+![Vercel](https://vercel.celsiusnarhwal.dev/api/celsiusnarhwal/vercel-badge)
+
 Display the status of your [Vercel](https://vercel.com) deployment right in your repository's README.
 
 ## Badges
@@ -16,6 +18,8 @@ Display the status of your [Vercel](https://vercel.com) deployment right in your
 2. Copy and paste one of following into your README.md, substituting `{user}` and `{repo}` with the appropriate values:
     - Markdown: `![Vercel](https://vercel.celsiusnarhwal.dev/api/{user}/{repo})`
     - HTML: `<img src="https://vercel.celsiusnarhwal.dev/api/{user}/{repo}"/>`
+    
+    For example, the badge URL for this repository is `https://vercel.celsiusnarhwal.dev/api/celsiusnarhwal/vercel-badge`.
 
 ## Troubleshooting
 
