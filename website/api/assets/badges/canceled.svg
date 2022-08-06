@@ -7,11 +7,8 @@
 <rect height="152.104" width="570.047" x="988.495" y="165.394"/>
 </clipPath>
 </defs>
-<clipPath id="ArtboardFrame">
-<rect height="502.23" width="1608.57" x="0" y="0"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Layer-1" vectornator:layerName="Layer-1">
-<path d="M63.4601 5.00003L1545.11 5.00003C1577.4 5.00003 1603.57 22.37 1603.57 43.7799L1603.57 458.45C1603.57 479.87 1577.4 497.23 1545.11 497.23L63.4601 497.23C31.18 497.23 4.99998 479.87 4.99998 458.45L4.99998 43.7799C4.99998 22.37 31.18 5.00003 63.4601 5.00003Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10"/>
+<g id="Layer-1" vectornator:layerName="Layer-1">
+<path d="M63.4601 5.00003L1545.11 5.00003C1577.4 5.00003 1603.57 22.37 1603.57 43.7799L1603.57 458.45C1603.57 479.87 1577.4 497.23 1545.11 497.23L63.4601 497.23C31.18 497.23 4.99998 479.87 4.99998 458.45L4.99998 43.7799C4.99998 22.37 31.18 5.00003 63.4601 5.00003Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="round" stroke-width="6"/>
 <path d="M318.96 61.14L512.61 396.56L125.3 396.56L318.96 61.14Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none"/>
 <path d="M659.84 64.62L661.89 399.57" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10"/>
 <path d="M825.09 242.37C825.09 203.79 856.37 172.51 894.95 172.51C933.53 172.51 964.8 203.79 964.8 242.37C964.8 280.95 933.53 312.22 894.95 312.22C856.37 312.22 825.09 280.95 825.09 242.37Z" fill="#333333" fill-rule="nonzero" opacity="1" stroke="none"/>
