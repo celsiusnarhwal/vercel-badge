@@ -48,7 +48,7 @@ Display the status of your [Vercel](https://vercel.com) deployment right in your
   still isn't up-to-date.
 - If it's still not working, [open an issue](/issues/new). Please include a link to the relevant repository.
 
-## Acknolwedgements
+## Acknowledgements
 
 This project was inspired by [datejer/vercel-badge](https://github.com/datejer/vercel-badge).
 
