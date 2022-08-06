@@ -1,0 +1,7 @@
+.idea
+*.iml
+out
+gen
+/localhost.crt
+/localhost.key
+.vercel
