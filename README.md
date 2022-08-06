@@ -11,8 +11,7 @@ Display the status of your [Vercel](https://vercel.com) deployment right in your
 
 1. [Install the Vercel Status Badge app](https://vercel.celsiusnarhwal.dev). The app must have access to the
    repositories
-   you want to display the badge on. If you select the "All repositories" option, you will never have to worry about
-   this
+   you want to display the badge on. If you select the "All repositories" option, you won't have to worry about this
    again.
 2. Copy and paste one of following into your README.md, substituting `{user}` and `{repo}` with the appropriate values:
     - Markdown: `![Vercel](https://vercel.celsiusnarhwal.dev/api/{user}/{repo})`
