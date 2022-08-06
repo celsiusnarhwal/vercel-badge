@@ -1,6 +1,6 @@
 # Vercel Status Badge
 
-the status of your Vercel deployment right in your repository's README.
+Display the status of your [Vercel](https://vercel.com) deployment right in your repository's README.
 
 ## Badges
 
